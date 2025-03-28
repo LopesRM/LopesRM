@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333333&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+on+the+map+of+Brazil;I+am+an+adventurer+in+AWS+and+other+languages;Come,+take+this+sword+and+join+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333333&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+on+the+map+of+Brazil;I+am+an+adventurer+in+AWS+and+other+languages;Come,+take+this+sword+🗡+and+join+me!)](https://git.io/typing-svg)
 
 <div align="center">
   🗡️ Take this sword and shield ⚔️
