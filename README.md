@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=6b3fa0&text=Rafhael%20Lopes&fontColor=ffffff)"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+from+Brazil;I+am+currently+studying+AWS+a;Be+Welcome+for+the+adventures!+:%29)](https://git.io/typing-svg)
 
