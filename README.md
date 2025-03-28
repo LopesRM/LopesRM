@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Gabrielly+Gonçalves;I+am+from+Brazil;I+am+currently+studying+AWS+and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+from+Brazil;I+am+currently+studying+AWS+a;Be+Welcome+for+the+adventures!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="mailto:cmp.1a.contact.rafhaell@gmail.com"> 
@@ -18,8 +18,7 @@ Studying
   <img align="center" alt="RLopes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="RLopes-Aws" height="30" width="40" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png">
-   <src="https://images.ctfassets.net/xwxknivhjv1b/3QkufbIgCqCqcEojZe4Q8m/822d047894bfd596dcf85f38af4b07bf/Cybersecurity_Hero.svg">
-
+  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
