@@ -21,10 +21,10 @@ Studying
   <img align="center" alt="Rafha-Cyber" height="30" width="40" src="https://images.ctfassets.net/xwxknivhjv1b/3QkufbIgCqCqcEojZe4Q8m/822d047894bfd596dcf85f38af4b07bf/Cybersecurity_Hero.svg">
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 <div align="center">
   <h3><b>Visitor Count</b></h3>
 </div>
