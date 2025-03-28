@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333333&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+on+the+map+of+Brazil;I+am+an+adventurer+in+AWS+and+other+languages;Come,+take+this+sword+🗡+and+join+me!)](https://git.io/typing-svg)
 
-<div align="center">
-  🗡️ Take this sword and shield ⚔️
-</div>
 
 <div align="center">
   <a href="mailto:cmp.1a.contact.rafhaell@gmail.com"> 
