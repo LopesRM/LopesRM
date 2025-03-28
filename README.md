@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333333&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Rafhael+Lopes;I+am+on+the+map+of+Brazil;I+am+an+adventurer+in+AWS+and+other+languages;Come,+take+this+sword+🗡+and+join+me!)](https://git.io/typing-svg)
 <body><background>
-<img align="center" alt="Rafha-Background" height="540" width="990" src="https://www.shutterstock.com/image-vector/pixel-art-game-level-background-600nw-2553891639.jpg">
+<img align="center" alt="Rafha-Background" height="100%" width="100%" src="https://www.shutterstock.com/image-vector/pixel-art-game-level-background-600nw-2553891639.jpg">
 </background>
 <div align="center">
   <a href="mailto:contact.rafhaell@gmail.com"> 
