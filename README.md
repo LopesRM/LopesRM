@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
 </div>
-<background><img align="center" alt="Rafha-Background" height="990" width="540" src="https://www.shutterstock.com/image-vector/pixel-art-game-level-background-600nw-2553891639.jpg"></background>
+<background>
+<img align="center" alt="Rafha-Background" height="540" width="990" src="https://www.shutterstock.com/image-vector/pixel-art-game-level-background-600nw-2553891639.jpg">
+</background>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
