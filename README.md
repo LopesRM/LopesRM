@@ -24,7 +24,7 @@ Studying
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"](https://capsule-render.vercel.app/api?type=waving&height=300&color=6b3fa0&text=Rafhael%20Lopes&fontColor=ffffff)>
 <div align="center">
   <h3><b>Visitor Count</b></h3>
 </div>
